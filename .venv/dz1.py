@@ -15,7 +15,10 @@ print(18 / 9)
 a = 5
 b = 10
 c = a + b * 3
+print(c1)
 print(c)
+print(c)
+print(c1)
 #279
 
 
