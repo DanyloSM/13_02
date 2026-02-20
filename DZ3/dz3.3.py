@@ -18,7 +18,7 @@ print(result)
 #mid_nums = (len(nums) + 1) // 2
 #result = [nums[:mid_nums], nums[mid_nums:]]
 #print(result)
-
+...
 
 
 
